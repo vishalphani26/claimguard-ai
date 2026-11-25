@@ -1,0 +1,7 @@
+.git
+.env*
+*.jsonl
+.venv
+__pycache__
+secrets
+uploaded_docs

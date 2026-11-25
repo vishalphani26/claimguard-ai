@@ -1,0 +1,6 @@
+[
+  {"id":"DEMO-01","claim_type":"hail","description":"Hail damaged the parked insured personal-use vehicle. Comprehensive coverage selected; policy active.","expected":"approve"},
+  {"id":"DEMO-02","claim_type":"mechanical_breakdown","description":"Engine failed due to ordinary wear and tear during personal use.","expected":"deny"},
+  {"id":"DEMO-03","claim_type":"collision","description":"Collision occurred during rideshare use; endorsement status unknown.","expected":"escalate"},
+  {"id":"DEMO-04","claim_type":"theft","description":"Vehicle reported stolen but policy status and incident date are uncertain.","expected":"escalate"}
+]

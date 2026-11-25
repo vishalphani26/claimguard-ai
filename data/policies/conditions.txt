@@ -1,0 +1,2 @@
+[DEMO-COND-01]
+SECTION Conditions. Coverage applies only during the active policy period. Verify the incident date, policy status, driver eligibility and evidence of loss. If facts or policy terms are incomplete or conflicting, refer the claim to manual review. These clauses are fictional and not legal or insurance guidance.
